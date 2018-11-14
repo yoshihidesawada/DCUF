@@ -1,5 +1,5 @@
 # DCUF
-Disentangling controllable and uncontrollable factors of variation (DCUF) by Interacting with the World
+Sample code of Disentangling controllable and uncontrollable factors of variation (DCUF) by Interacting with the World
 
 # Dependencies
 - python version 2.7.6
@@ -12,3 +12,5 @@ ${LAMBDA}: hyparparameter to balance autoencoder (AE) and disentangled objective
 ${ICF_EPOCH}: the number of epoch to pretrain independently controllable factor's model  
 ${AE_EPOCH}: the number of epoch to pretrain second AE  
 ${DCUF_EPOCH}: the number of epoch to train DCUF model  
+
+# Citation
