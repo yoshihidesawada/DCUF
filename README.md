@@ -10,5 +10,5 @@ Disentangling controllable and uncontrollable factors of variation (DCUF) by Int
   
 ${LAMBDA}: hyparparameter to balance autoencoder (AE) and disentangled objectives  
 ${ICF_EPOCH}: the number of epoch to pretrain independently controllable factor's model  
-${AE_EPOCH}: the number of epoch to pretrain second AE  
+${AE_EPOCH}: the number of epoch to pretrain second AE (in our papaer, we set 0 but by using this process, DCUF may provide more stable result)  
 ${DCUF_EPOCH}: the number of epoch to train DCUF model  
