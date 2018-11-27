@@ -16,7 +16,7 @@ ${DCUF_EPOCH}: the number of epoch to train DCUF model
 # Citation
 
 # License
-Copyright (c) 2018 Yoshihide Sawada
-Released under the MIT license
-https://opensource.org/licenses/mit-license.php
+Copyright (c) 2018 Yoshihide Sawada  
+Released under the MIT license  
+https://opensource.org/licenses/mit-license.php  
 
