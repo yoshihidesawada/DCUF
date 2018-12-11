@@ -16,6 +16,7 @@ ${DCUF_EPOCH}: the number of epoch to train DCUF model
 # Citation
 Y Sawada, L Rigazio, K Morikawa, M Iwasaki, Y Bengio,  
 "Disentangling Controllable and Uncontrollable Factors by Interacting with the World", Deep RL Workshop NeurIPS 2018
+https://sites.google.com/view/deep-rl-workshop-nips-2018/home
 https://drive.google.com/open?id=0B_utB5Y8Y6D5UWVUMkhSckRjZTdKdTk5ZWxxRXVNaWNtOVpB
 
 # License
